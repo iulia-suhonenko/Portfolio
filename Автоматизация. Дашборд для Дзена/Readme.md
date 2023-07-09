@@ -43,3 +43,7 @@ Python, Pandas, SQLAlchemy, Tableau Public, dash
 
 #### Ссылка на Дашборд: 
 https://public.tableau.com/app/profile/.10864499/viz/___16854413459380/Dashboard2?publish=yes
+
+#### Ссылка на презентацию на Ядекс. Диск
+https://disk.yandex.ru/i/6wtAhphhG0KqQA
+
