@@ -40,3 +40,6 @@
 #### Навыки и инструменты
 Python, Pandas, SQLAlchemy, Tableau Public, dash
 дашборд, пайплайн
+
+#### Ссылка на Дашборд: 
+https://public.tableau.com/app/profile/.10864499/viz/___16854413459380/Dashboard2?publish=yes
